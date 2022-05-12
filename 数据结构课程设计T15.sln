@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构课程设计T15", "数据结构课程设计T15\数据结构课程设计T15.vcxproj", "{93D65074-A1B4-4DAF-BD4F-87556420562A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{93BAE7AD-F1E4-41A8-A2C8-26ACDC37AC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Debug|x64.ActiveCfg = Debug|x64
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Debug|x64.Build.0 = Debug|x64
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Debug|x86.ActiveCfg = Debug|Win32
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Debug|x86.Build.0 = Debug|Win32
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Release|x64.ActiveCfg = Release|x64
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Release|x64.Build.0 = Release|x64
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Release|x86.ActiveCfg = Release|Win32
+		{93D65074-A1B4-4DAF-BD4F-87556420562A}.Release|x86.Build.0 = Release|Win32
+		{93BAE7AD-F1E4-41A8-A2C8-26ACDC37AC48}.Debug|x64.ActiveCfg = Debug
+		{93BAE7AD-F1E4-41A8-A2C8-26ACDC37AC48}.Debug|x86.ActiveCfg = Debug
+		{93BAE7AD-F1E4-41A8-A2C8-26ACDC37AC48}.Release|x64.ActiveCfg = Release
+		{93BAE7AD-F1E4-41A8-A2C8-26ACDC37AC48}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC0F6782-A89A-4CA3-AA19-1C127CEEF01F}
+	EndGlobalSection
+EndGlobal
